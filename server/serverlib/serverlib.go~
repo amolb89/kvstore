@@ -1,0 +1,8 @@
+package server
+
+type Args struct {
+	Key string
+	Value string
+}
+
+

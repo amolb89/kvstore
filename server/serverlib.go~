@@ -1,0 +1,12 @@
+package server
+
+type Args struct {
+	Key string
+	Value string
+}
+
+type KVError struct{
+	Err string
+}
+
+
